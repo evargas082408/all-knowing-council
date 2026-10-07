@@ -1,0 +1,4 @@
+interface:
+  display_name: "All-Knowing Council"
+  short_description: "Ten advisors, fifty jurors, auditable consensus"
+  default_prompt: "Use $all-knowing-council to develop and pressure-test my idea with ten advisors and fifty jurors."
